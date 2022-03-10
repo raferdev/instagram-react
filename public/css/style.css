@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+main {
+    height: 100%;
+    width: 100%;
+}
+header {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    height: 59px;
+}
+.logo {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo-img {
+    height: 29px;
+    width: auto;
+}
