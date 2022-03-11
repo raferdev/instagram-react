@@ -1,23 +1,14 @@
 * {
     box-sizing: border-box;
 }
-main {
+html, body, #app, #root, #content {
     height: 100%;
     width: 100%;
 }
-header {
-    display:flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-    height: 59px;
+#app {
+    background-color: #E5E5E5;
 }
-.logo {
+#content {
     display:flex;
     justify-content: center;
-    align-items: center;
-}
-.logo-img {
-    height: 29px;
-    width: auto;
 }
