@@ -3,3 +3,17 @@ nav {
     height: 500px;
     background-color: brown;
 }
+/* Side User Perfil */
+.side-user {
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+.side-user-img {
+    height: 60px;
+    width: auto;
+    border-radius: 50%;
+}
+.side-user-descrition {
+    margin-left:10px;
+}

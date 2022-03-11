@@ -11,4 +11,5 @@ html, body, #app, #root, #content {
 #content {
     display:flex;
     justify-content: center;
+    margin-top:50px;
 }

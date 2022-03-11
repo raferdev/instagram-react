@@ -1,5 +1,8 @@
+import SideUser from "./sideUser/SideUser"
 export default function SideBar() {
     return (
-        <nav></nav>
+        <nav>
+            <SideUser />
+        </nav>
     )
 }
