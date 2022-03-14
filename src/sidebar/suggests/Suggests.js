@@ -8,7 +8,7 @@ export default function Suggests() {
 
             <div class="sugestao">
               <div class="usuario">
-                <img src="assets/img/bad.vibes.memes.svg" />
+                <img src="assets/img/bad.vibes.memes.svg" alt="imagem" />
                 <div class="texto">
                   <div class="nome">bad.vibes.memes</div>
                   <div class="razao">Segue você</div>
@@ -20,7 +20,7 @@ export default function Suggests() {
 
             <div class="sugestao">
               <div class="usuario">
-                <img src="assets/img/chibirdart.svg" />
+                <img src="assets/img/chibirdart.svg" alt="imagem"/>
                 <div class="texto">
                   <div class="nome">chibirdart</div>
                   <div class="razao">Segue você</div>
@@ -32,7 +32,7 @@ export default function Suggests() {
 
             <div class="sugestao">
               <div class="usuario">
-                <img src="assets/img/razoesparaacreditar.svg" />
+                <img src="assets/img/razoesparaacreditar.svg" alt="imagem"/>
                 <div class="texto">
                   <div class="nome">razoesparaacreditar</div>
                   <div class="razao">Novo no Instagram</div>
@@ -44,7 +44,7 @@ export default function Suggests() {
 
             <div class="sugestao">
               <div class="usuario">
-                <img src="assets/img/adorable_animals.svg" />
+                <img src="assets/img/adorable_animals.svg" alt="imagem" />
                 <div class="texto">
                   <div class="nome">adorable_animals</div>
                   <div class="razao">Segue você</div>
@@ -56,7 +56,7 @@ export default function Suggests() {
 
             <div class="sugestao">
               <div class="usuario">
-                <img src="assets/img/smallcutecats.svg" />
+                <img src="assets/img/smallcutecats.svg" alt="imagem" />
                 <div class="texto">
                   <div class="nome">smallcutecats</div>
                   <div class="razao">Segue você</div>
