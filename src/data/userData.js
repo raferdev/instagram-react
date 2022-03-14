@@ -1,0 +1,1 @@
+export let user = ["Catana","catanacomics","assets/img/catanacomics.svg"];
