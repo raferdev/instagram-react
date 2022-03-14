@@ -1,8 +1,14 @@
-import SideUser from "./sideUser/SideUser"
-export default function SideBar() {
+import SideUser from "./sideUser/SideUser";
+import Suggests from "./suggests/Suggests";
+import Links from "./links/Links";
+import Copyright from "./copyright/Copyright";
+export default function Sidebar() {
     return (
-        <nav>
+        <div class="sidebar">
             <SideUser />
-        </nav>
+            <Suggests />
+            <Links />
+            <Copyright />
+        </div>
     )
 }

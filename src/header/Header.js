@@ -1,12 +1,18 @@
-import Logo from "./Logo"
+import Logo from "./Logo";
 import Search from "./Search";
 import UserMenu from "./UserMenu";
+import MobLogo from "./mobile/MobLogo";
+import MobImg from "./mobile/MobImg";
+import MobIcon from "./mobile/MobIcon";
 export default function Header() {
-    return (
-    <header>
-        <Logo />
-        <Search />
-        <UserMenu />
-    </header>
-    );
+  return (
+    <div class="container">
+      <Logo />
+      <MobLogo />
+      <MobImg />
+      <Search />
+      <UserMenu />
+      <MobIcon />
+    </div>
+  );
 }

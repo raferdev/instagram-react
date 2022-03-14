@@ -1,5 +1,7 @@
 export default function Search() {
     return (
-        <input class="Search" placeholder="Pesquisar" type="text"></input>
+        <div class="pesquisa">
+        <input type="text" placeholder="Pesquisar" />
+      </div>
     )
 }

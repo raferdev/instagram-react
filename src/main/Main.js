@@ -1,5 +1,10 @@
+import Stories from "./stories/Stories";
+import Post from "./post/Post";
 export default function Main() {
     return (
-        <main></main>
+        <div class="esquerda"> 
+        <Stories />
+        <Post />
+        </div>
     )
 }
