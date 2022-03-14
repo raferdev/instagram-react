@@ -2,18 +2,18 @@ import ReactDOM from "react-dom";
 import Header from "./header/Header";
 import Sidebar from "./sidebar/SideBar";
 import Main from "./main/Main";
-import MobBackground from "./header/mobile/MobBG";
+import MobBackground from "./mobile/MobBG";
 const htmlBody = document.querySelector(".root");
 function Body() {
   return (
     <div id="app">
-      <div class="navbar">
+      <header>
         <Header />
-      </div>
-      <div class="corpo">
+      </header>
+      <section>
         <Main />
         <Sidebar />
-      </div>
+      </section>
       <MobBackground />
     </div>
   );

@@ -1,6 +1,6 @@
-export default function Posts(props) {
+export default function Post(props) {
   return (
-    <div class="post">
+    <article class="post">
       <div class="topo">
         <div class="usuario">
           <img src={props.profileImg} alt="Profile Imagem" />
@@ -30,11 +30,10 @@ export default function Posts(props) {
         <div class="curtidas">
           <img src={props.lastLikeImg} alt="imgem" />
           <div class="texto">
-            Curtido por <strong>{props.lasLikeProfile}</strong> e
-            <strong>outras {props.likes} pessoas</strong>
+            Curtido por <strong>{props.lasLikeProfile}</strong> e <strong>outras {props.likes} pessoas</strong>
           </div>
         </div>
       </div>
-    </div>
+    </article>
   )
 }

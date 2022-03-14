@@ -4,11 +4,11 @@ import Links from "./links/Links";
 import Copyright from "./copyright/Copyright";
 export default function Sidebar() {
     return (
-        <div class="sidebar">
+        <aside class="sidebar">
             <SideUser />
             <Suggests />
             <Links />
             <Copyright />
-        </div>
+        </aside>
     )
 }
