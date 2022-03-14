@@ -1,3 +1,4 @@
+import Type from "./Type"
 export default function Post(props) {
   return (
     <article class="post">
@@ -12,7 +13,7 @@ export default function Post(props) {
       </div>
 
       <div class="conteudo">
-        <img src={props.post} alt="imgem" />
+        <Type type={props.type} post={props.post}/>
       </div>
 
       <div class="fundo">

@@ -1,21 +1,25 @@
 export let suggests = [{
-    nome:"bad.vibes.memes",
+    name:"bad.vibes.memes",
     img:"assets/img/bad.vibes.memes.svg",
     razao:"Segue você"
   },{
-    nome:"chibirdart",
+    name:"chibirdart",
     img:"assets/img/chibirdart.svg",
-    razao:"Segue você"
+    razao:"Pessoas que você segue"
   },{
-    nome:"razoesparaacreditar",
+    name:"razoesparaacreditar",
     img:"assets/img/razoesparaacreditar.svg",
     razao:"Segue você"
   },{
-    nome:"adorable_animals",
+    name:"adorable_animals",
     img:"assets/img/adorable_animals.svg",
-    razao:"Segue você"
+    razao:"Pq todo mundo gosta de pets"
   },{
-    nome:"smallcutecats",
+    name:"smallcutecats",
     img:"assets/img/smallcutecats.svg",
+    razao:"Pq todo mundo gosta de pets"
+  },{
+    name:"lembredetomar2L",
+    img:"assets/img/agua.jpg",
     razao:"Segue você"
   }]
