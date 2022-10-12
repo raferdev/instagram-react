@@ -9,7 +9,7 @@
 
 [![Status](https://img.shields.io/badge/status-closed-red.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/raferdev/instagram-react.svg)](https://github.com//raferdev/instagram-react/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/raferdev/The-Documentation-Compendium.svg)](https://github.com/raferdev/instagram-react/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/raferdev/instagram-react.svg)](https://github.com/raferdev/instagram-react/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
