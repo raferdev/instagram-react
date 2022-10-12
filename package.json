@@ -5,7 +5,7 @@
   "description": "This is one frontend project base on instagram and build in ReactJS.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raferdev/linkmeet.git"
+    "url": "git+https://github.com/raferdev/instagram-react.git"
   },
   "keywords": [
     "ReactJS",
