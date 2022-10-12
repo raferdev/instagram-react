@@ -43,8 +43,23 @@ Clone
  ```
  git clone https://github.com/raferdev/instagram-react
  ```
+Install Dependencies
+
+
+```
+npm i
+```
+Start Server
+```
+npm start
+```
+The browser will remote open on the local link on port 3000 (usually). Exemple .:
+```
+http://localhost:3000
+```
 
 ## 🎈 Usage <a name="usage"></a>
+
 You can right click and go to option inspect on your browser to use the options sizes of display and see the responsive layout
 
 ## ⛏️ Built Using <a name = "built_using"></a>
