@@ -311,6 +311,11 @@ section {
 }
 
 @media (max-width: 935px) {
+
+  .container {
+    padding: 20px;
+  }
+
   .sidebar {
     display: none;
   }
@@ -346,17 +351,18 @@ section {
     border: none;
     width: 100%;
   }
-
   .post:first-child {
     margin-top: 0;
   }
-
-  .navbar .pesquisa {
-    display: none;
+  .logo {
+    display: none !important;
+  }
+  .pesquisa {
+    display: none  !important;
   }
 
-  .navbar .icones {
-    display: none;
+  .icones {
+    display: none  !important;
   }
 
   .navbar .icones-mobile {
@@ -377,17 +383,18 @@ section {
     bottom: 0;
     left: 0;
   }
-
-  .navbar .logo {
-    display: none;
-  }
-
+  
   .logo-mobile, .instagram-mobile {
     display: flex !important;
   }
+  .container {
+    align-items: center;
+    justify-content: center !important;
+  }
 
-  .instagram-mobile {
-    position: relative;
-    top: 4px;
+  .logo-mobile {
+    position: absolute;
+    left: 15px;
+    top: -3px;
   }
 }
