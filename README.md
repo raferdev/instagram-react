@@ -71,4 +71,4 @@ You can right click and go to option inspect on your browser to use the options 
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@rafaelfernandev](https://github.com/raferdev) - Idea & Initial work
+- [@raferdev](https://github.com/raferdev) - Idea & Initial work
